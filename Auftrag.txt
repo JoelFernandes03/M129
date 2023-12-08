@@ -1,0 +1,11 @@
+AUFTRAG     arj/Dez.2023
+*******
+
+Untersuchen sie die zehn PacketTracer-Dateien A1.pkt bis A10.pkt und schreiben sie auf, wo die Fehler liegen und wie sie korrigiert werden können.
+Im Layout 1 und 5 verstecken sich mehrere Fehler, in den übrigen jeweils nur einer.
+Notieren sie sich stichwortartig den Weg, den sie zur Fehlersuche eingeschlagen haben. (Kommandos)
+Zum Schluss kreiern sie für ihren Tischnachbarn/in ein eigens Layout (A11.pkt) mit einem eingebauten Fehler.
+Vergessen sie nicht, das Geheimnis ihres fehlerhaften Layouts preiszugeben, falls ihr Tischnachbar/in nicht fündig geworden ist.
+Die Lösungen zu A1.pkt bis A10.pkt werden ihnen im Anschluss präsentiert.
+
+Happy learning!
